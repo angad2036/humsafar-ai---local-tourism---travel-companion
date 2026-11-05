@@ -1,0 +1,6 @@
+{
+  "name": "HUMSAFAR AI — Local Tourism & Travel Companion",
+  "description": "Discover destinations based on budget, explore heritage through AI cinematic travel films, connect with local guides, and join group travel experiences.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
